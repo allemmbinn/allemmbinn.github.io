@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Junior at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology</a>
+subtitle: Junior at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology Kharagpur</a>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
