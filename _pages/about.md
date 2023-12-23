@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Junior at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology</a>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -10,13 +10,13 @@ profile:
   image: profile_photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>D345 R.P. Hall of Residence</p>
+    <p>D345, RP Hall</p>
     <p>IIT Kharagpur</p>
-    <p>Kharagpur, West Bengal 721302</p>
+    <p>Kharagpur, WB-721302</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -30,4 +30,4 @@ Hello! I am a junior at Indian Institue of Technology Kharagpur. I am a robotics
 
 Currently I'm working with [Prof Pushpak Jagtap](https://www.pushpakjagtap.com/) at the [Focas Lab](https://www.focaslab.com/) at the [Robert Bosch Center for Cyber Physical Systems, IISc Bangalore](https://cps.iisc.ac.in/) currently working on the F1Tenth vehicle.
 
-My hobbies are debating and dramatics.
+My hobbies are debating and dramatics. If you are interested in robotics and would like to discuss anything do drop a mail!
