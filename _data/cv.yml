@@ -68,7 +68,7 @@
       items: 
         - "AIR 689 : Kishore Vaigyanik Protsahan Yojana"
         - "AIR 3022  : JEE Advanced Examination"
-        - s
+        - "AIR 2657" : JEE Mains Examination
 
 # - title: Academic Interests
 #   type: nested_list
@@ -85,5 +85,5 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Debating:</u> Governor of Debating Soceity, IIT Kharagpur; Won several debating and adjudicator awards;
+    - <u>Debating:</u> Governor of Debating Soceity, IIT Kharagpur (Mar 2023 - Mar 2024); Won several debating and adjudicator awards;
     - <u>Dramatics:</u> Memeber of Encore (English Dramatics Society); Part of several stage plays, shortfilms;
