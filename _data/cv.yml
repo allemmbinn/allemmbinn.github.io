@@ -12,49 +12,63 @@
   type: time_table
   contents:
     - title: Dual Degree [B.Tech + M.Tech]
-      institution: Indian Institute of Technology Kharagpur
+      institution: Indian Institute of Technology Kharagpur, India
       year: "2021 - 2026"
       description:
-        - Major in Electronics and Electrical Communication Engineering
-        - "CGPA : 8.86 (upto 5th semester)"
+        - Bachelors of Technology in Electronics and Electrical Communication Engineering
+        - Masters of Technology in Electronics and Electrical Communication Engineering
+        - "CGPA : 8.89 (upto 6th semester)"
         - title: Important Coursework
           contents:
             - Systems and Control
-            - Advanced Calculus
+            - Linear Algebra and Convex Optimisation
+            - Probability
+            - Algorithms
             - Programming and Data Structures
-            - Analog Electronics
-            - Digital Electronics
 
 - title: Experience
   type: time_table
   contents:
+    - title: Visiting Researcher
+        institution: Munich Institute of Robotics and Machine Intelligence [MIRMI], Technical University of Munich, Germany
+        year: "May 2024 - Present"
+        description:
+          - Guided by Dr. Abdalla Swikir to work on 'Learning Barrier Certified Neural Network Dynamical Systems for Robot Motion Planning'
+          - Reduced MSE by ~5% by leveraging neural networks to learn unknown dynamical systems (DS) from reference data to avoid obstacles
+          - Implemented the algorithm to learn 3 regression-based neural networks simultaneously on Pytorch and ensured SMT verification
+          - Enhanced computational efficiency by ~200% by using compositional methods to learn the DS using Linear Parameter Varying methods
+          - Established real-world applications by testing on a 7-DOF robotic manipulator (Franka Emika Panda) using C++ and Python
+        
     - title: Research Intern
-      institution: Robert Bosch Center for Cyber Physical Systems [RBCCPS], IISc Bangalore
-      year: "2023 - present"
+      institution: Robert Bosch Center for Cyber Physical Systems [RBCCPS], IISc Bangalore, India
+      year: "May 2023 - Dec 2023"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+          - Guided by Professor Pushpak Jagtap to work on Symbolic Control for Autonomous Racing of F1Tenth
+          - Developed a symbolic controller for Autonomous F1Tenth Vehicle racing using SCOTS, a C++ based toolbox, to guarantee safety
+          - Integrated the controller with ROS and Rviz for real-time monitoring and high-level control of autonomous F1Tenth racing simulation
+          - Adapted the algorithm to a parallelized SCOTS (pFaces) and enhanced computation efficiency by 80% by using CUDA interface
+          - Leveraged reachability-based toolboxes (CORA and Rtreach) to develop computationally efficient controllers with formal guarantees
     - title: Undergraduate Researcher 
       institution: Autonomous Ground Vehicles, IIT Kharagpur
-      year: "2022 - present"
+      year: "Aug 2022 - Present"
       description:
-        - Description 1.
-        - Description 2.
+        - Guided by Professor Debashish Chakravarty as part of the Trajectory Prediction and Controls Systems Team
+        - Developed pipelines for Elastic Band Local Planner , Global Planners and Game Theoretical Planner for the F1Tenth Vehicle
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2022
+        - Awarded the prestigious MITACS Globalink Scholarhship 2024 to pursue a research internship programme at the University of Calgary
+        - Selected for the Guru Krupa Foundation Scholarship 2024, among 10 candidates institute-wide, funding research internship at TUM
+    - year: 2022
       items: 
-        - Department Change from Mechanical Engineering
+        - Secured the coveted department change , ranking in the top 2% among the batch of 1800+ after the first year, scoring an excellent CGPA
     - year: 2021
       items: 
         - "AIR 689 : Kishore Vaigyanik Protsahan Yojana"
-        - "99.7 %  : JEE Mains Examination"
+        - "AIR 3022  : JEE Advanced Examination"
+        - s
 
 # - title: Academic Interests
 #   type: nested_list
